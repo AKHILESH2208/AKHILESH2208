@@ -1,29 +1,60 @@
-<h1 align="center">Hi 👋, I'm Akhilesh</h1>
-<h3 align="center">B.Tech CSE @ DTU '27 | MERN Developer | GDG Challenge '25 Finalist</h3>
+# Hi, I'm Akhilesh Negi 🚀 
+### B.Tech CSE @ DTU '27 | AI Researcher | GDG Challenge '25 Finalist
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh2208&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh2208" /> </p>
+[cite_start]I am a Computer Science undergraduate at **Delhi Technological University** with a focus on building high-impact AI/ML systems and low-latency decentralized networks. [cite: 18, 37, 95] [cite_start]From architecting **V2V safety systems** to research in **Visual Speech Recognition**, I thrive at the intersection of complex algorithms and real-world utility. [cite: 71, 99, 111]
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilesh2208" alt="akhilesh2208" /></a> </p>
+---
 
-- 💬 Ask me about **react, next, express**
+### 🏆 Top Achievements
+* [cite_start]**GDG Challenge 2025 Finalist:** Ranked in the **Top 14 out of 3,700+ teams** globally. [cite: 86, 127]
+* [cite_start]**SIH 2025 Internal Winner:** Secured 1st place among 250+ teams for decentralized V2V safety. [cite: 87, 110, 128]
+* [cite_start]**Codeforces Specialist (Max 1542):** 300+ problems solved; focused on DP, Graphs, and Greedy algorithms. [cite: 89, 130]
+* [cite_start]**LeetCode:** 550+ problems solved with a focus on optimized problem-solving under constraints. [cite: 90, 131]
 
-- 📫 How to reach me **akhilesh.dtu.cs@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h_i1Vu_L0rB5SIkLZug7DfwXtGIcyRAw/view?usp=drive_link](https://drive.google.com/file/d/1h_i1Vu_L0rB5SIkLZug7DfwXtGIcyRAw/view?usp=drive_link)
+### 🛠️ Technical Arsenal
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akhilesh-negi-08081428a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhilesh-negi-08081428a/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/akhileshnegi22082004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akhileshnegi22082004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/maximus_chadus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maximus_chadus" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akhileshnegin6q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akhileshnegin6q" height="30" width="40" /></a>
-</p>
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | [cite_start]Python (Advanced), C++, TypeScript, JavaScript, Java, SQL [cite: 121] |
+| **AI & Machine Learning** | [cite_start]LLMs (Llama 3.3), RAG, Transformers, STCNNs, LangChain [cite: 60, 80, 122] |
+| **Mobile & Web** | [cite_start]Flutter, Next.js, React.js, Node.js, Spring Boot [cite: 105, 123] |
+| **Cloud & DB** | [cite_start]Supabase, Firebase, PostgreSQL, MongoDB, Pinecone [cite: 118, 124] |
+| **Core CS** | [cite_start]Data Structures & Algorithms, System Design, Operating Systems [cite: 125] |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilesh2208&show_icons=true&locale=en&layout=compact" alt="akhilesh2208" /></p>
+### 📂 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilesh2208&show_icons=true&locale=en" alt="akhilesh2208" /></p>
+#### 🛡️ [Sororia](https://github.com/your-repo) - Women's Safety Ecosystem 
+* [cite_start]**GDG '25 Finalist:** Built a scalable safety app using **Flutter** and **Firebase**. [cite: 64, 105]
+* [cite_start]**Innovation:** Developed a safety-first routing algorithm analyzing **50,000+ data points** to reduce unsafe route exposure by 35%. [cite: 65, 106]
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilesh2208&" alt="akhilesh2208" /></p>
+#### 🚗 [AuraDrive](https://github.com/your-repo) - Decentralized V2V System 
+* [cite_start]**SIH '25 Winner:** Designed a P2P mesh network using **Bluetooth flooding protocols** for real-time collision alerts. [cite: 70, 111]
+* [cite_start]**Technical Depth:** Implemented TTL-based packet filtering and IMU sensor fusion for proactive driver warnings. [cite: 72, 108, 113]
+
+#### 🏥 [Medical Translator](https://github.com/your-repo) - AI Healthcare Interface
+* [cite_start]**Stack:** Next.js, Groq (Llama 3.3 70B), Whisper Large V3. [cite: 115]
+* [cite_start]**Impact:** Real-time medical-grade translation across 8 languages with automated symptom summarization. [cite: 76, 117, 119]
+
+---
+
+### 🔬 Research Experience
+**Research Intern @ AIMS DTU** | [cite_start]*July 2024 – Sept 2024* [cite: 27, 29, 97, 100]
+* [cite_start]Architected a deep learning pipeline for **Visual Speech Recognition (Lip Reading)**. [cite: 58, 99]
+* [cite_start]Implemented **Spatio-Temporal CNNs (STCNNs)** and **Transformers** to extract linguistic features from high-dimensional video data. [cite: 60, 101]
+
+---
+
+### 📊 Performance Metrics
+![Akhilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
+* [cite_start]**LinkedIn:** [in/akhilesh-negi-08081428a](https://www.linkedin.com/in/akhilesh-negi-08081428a) [cite: 4, 92]
+* [cite_start]**Email:** [akhilesh.dtu.cs@gmail.com](mailto:akhilesh.dtu.cs@gmail.com) [cite: 45, 92]
+* **Platforms:** [LeetCode](https://leetcode.com/yourusername) | [cite_start][Codeforces](https://codeforces.com/profile/yourusername) [cite: 45, 92]
