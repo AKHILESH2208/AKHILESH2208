@@ -1,5 +1,5 @@
 # Hi, I'm Akhilesh Negi 🚀 
-### B.Tech CSE @ DTU '27 | AI Researcher | GDG Challenge '25 Finalist
+### B.Tech CSE @ DTU '27 | MERN Developer | AI Enthusiast | GDG Challenge '25 Finalist
 
 I am a Computer Science undergraduate at **Delhi Technological University** with a focus on building high-impact AI/ML systems and low-latency decentralized networks. From architecting **V2V safety systems** to research in **Visual Speech Recognition**, I thrive at the intersection of complex algorithms and real-world utility. [
 
