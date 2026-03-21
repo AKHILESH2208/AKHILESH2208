@@ -27,15 +27,15 @@ I am a Computer Science undergraduate at **Delhi Technological University** with
 
 ### 📂 Featured Projects
 
-#### 🛡️ [Sororia](https://github.com/your-repo) - Women's Safety Ecosystem 
+#### 🛡️ [Sororia](https://github.com/your-repo](https://github.com/WeezyF0/Sororia) - Women's Safety Ecosystem 
 * **GDG '25 Finalist:** Built a scalable safety app using **Flutter** and **Firebase**. 
 * [cite_start]**Innovation:** Developed a safety-first routing algorithm analyzing **50,000+ data points** to reduce unsafe route exposure by 35%. 
 
-#### 🚗 [AuraDrive](https://github.com/your-repo) - Decentralized V2V System 
+#### 🚗 [AuraDrive](https://github.com/your-repo](https://github.com/AKHILESH2208/AURADRIVE) - Decentralized V2V System 
 * **SIH '25 Winner:** Designed a P2P mesh network using **Bluetooth flooding protocols** for real-time collision alerts.
 * **Technical Depth:** Implemented TTL-based packet filtering and IMU sensor fusion for proactive driver warnings. 
 
-#### 🏥 [Medical Translator](https://github.com/your-repo) - AI Healthcare Interface
+#### 🏥 [Medical Translator](https://github.com/AKHILESH2208/healthcare-translator) - AI Healthcare Interface
 * **Stack:** Next.js, Groq (Llama 3.3 70B), Whisper Large V3. [cite: 115]
 * **Impact:** Real-time medical-grade translation across 8 languages with automated symptom summarization. [cite: 76, 117, 119]
 
