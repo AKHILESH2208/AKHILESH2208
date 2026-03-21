@@ -25,21 +25,32 @@ I am a Computer Science undergraduate at **Delhi Technological University** with
 
 ---
 
-### 📂 Featured Projects
+## 🚀 Featured Projects
 
-#### 🛡️ [Sororia](https://github.com/your-repo](https://github.com/WeezyF0/Sororia) - Women's Safety Ecosystem 
-* **GDG '25 Finalist:** Built a scalable safety app using **Flutter** and **Firebase**. 
-* [cite_start]**Innovation:** Developed a safety-first routing algorithm analyzing **50,000+ data points** to reduce unsafe route exposure by 35%. 
+### 🛡️ [Sororia](https://github.com/WeezyF0/Sororia) — Women’s Safety Ecosystem
+**Global Finalist, GDG Solution Challenge 2025 (Top 14 of 3,700+ teams)**
 
-#### 🚗 [AuraDrive](https://github.com/your-repo](https://github.com/AKHILESH2208/AURADRIVE) - Decentralized V2V System 
-* **SIH '25 Winner:** Designed a P2P mesh network using **Bluetooth flooding protocols** for real-time collision alerts.
-* **Technical Depth:** Implemented TTL-based packet filtering and IMU sensor fusion for proactive driver warnings. 
-
-#### 🏥 [Medical Translator](https://github.com/AKHILESH2208/healthcare-translator) - AI Healthcare Interface
-* **Stack:** Next.js, Groq (Llama 3.3 70B), Whisper Large V3. [cite: 115]
-* **Impact:** Real-time medical-grade translation across 8 languages with automated symptom summarization. [cite: 76, 117, 119]
+* **Core Logic:** Architected a safety-first routing algorithm analyzing **50,000+ data points** to reduce unsafe route exposure by **35%**.
+* **Tech Stack:** Flutter, Firebase, Google Maps API.
+* **Key Feature:** Real-time SOS triggers and community-driven "Safe Zones" integration.
 
 ---
+
+### 🚗 [AuraDrive](https://github.com/AKHILESH2208/AURADRIVE) — Decentralized V2V System
+**Internal Winner, Smart India Hackathon 2025**
+
+* **Core Logic:** Designed a peer-to-peer (P2P) mesh network using **Bluetooth flooding protocols** for real-time collision alerts without centralized infrastructure.
+* **Tech Stack:** C++, Bluetooth Low Energy (BLE), IMU Sensor Fusion.
+* **Innovation:** Implemented TTL-based packet filtering and sensor fusion to provide proactive driver warnings with sub-100ms latency.
+
+---
+
+### 🏥 [Medical Translator](https://github.com/AKHILESH2208/healthcare-translator) — AI Healthcare Interface
+**Real-time Multilingual Support for Clinical Settings**
+
+* **Core Logic:** Leverages **Llama 3.3 (70B)** and **Whisper Large V3** for low-latency, medical-grade speech-to-text and translation.
+* **Tech Stack:** Next.js, TypeScript, Groq, Whisper.
+* **Impact:** Supports real-time translation across **8+ languages** with automated symptom summarization and clinical note generation.
 
 ### 🔬 Research Experience
 **Research Intern @ AIMS DTU** | *July 2024 – Sept 2024* 
