@@ -7,7 +7,6 @@ I am a Computer Science undergraduate at **Delhi Technological University** with
 
 ### 🏆 Top Achievements
 * **GDG Challenge 2025 Finalist:** Ranked in the **Top 14 out of 3,700+ teams** globally. 
-* **SIH 2025 Internal Winner:** Secured 1st place among 250+ teams for decentralized V2V safety. 
 * **Codeforces Specialist (Max 1542):** 300+ problems solved; focused on DP, Graphs, and Greedy algorithms. 
 * **LeetCode:** 550+ problems solved with a focus on optimized problem-solving under constraints. 
 
