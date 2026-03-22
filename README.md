@@ -56,11 +56,6 @@ I am a Computer Science undergraduate at **Delhi Technological University** with
 * Architected a deep learning pipeline for **Visual Speech Recognition (Lip Reading)**. 
 * Implemented **Spatio-Temporal CNNs (STCNNs)** and **Transformers** to extract linguistic features from high-dimensional video data. 
 
----
-
-### 📊 Performance Metrics
-![Akhilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
