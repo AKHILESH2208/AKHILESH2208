@@ -62,4 +62,4 @@ I am a Computer Science undergraduate at **Delhi Technological University** with
 ### 📫 Connect with Me
 * **LinkedIn:** [in/akhilesh-negi-08081428a](https://www.linkedin.com/in/akhilesh-negi-08081428a) 
 * **Email:** [akhilesh.dtu.cs@gmail.com](mailto:akhilesh.dtu.cs@gmail.com) 
-* **Platforms:** [LeetCode](https://leetcode.com/yourusername) | [Codeforces](https://codeforces.com/profile/yourusername) 
+* **Platforms:** [LeetCode]([https://leetcode.com/u/MaXiMus_ChADuS/]) | [Codeforces]([https://codeforces.com/profile/akhileshnegi22082004]) 
